@@ -26,7 +26,7 @@ s.platform     = :ios
   s.source       = { :git => "https://github.com/ZOYOOPlus/AlertGreenView.git", :tag => "#{s.version}" }
 
 
-  s.source_files  = "AlertGreenView/**/*.{h,m}"
+  s.source_files  = "AlertGreenView/AlertGreen/**/*.{h,m}"
 
 
   # s.public_header_files = "Classes/**/*.h"
