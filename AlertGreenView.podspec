@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
 
 
   s.name         = "AlertGreenView"
-  s.version      = "0.0.5"
+  s.version      = "0.0.6"
   s.summary      = "用于项目中添加弹框自定义封装AlertGreenView."
 
 
