@@ -7,7 +7,7 @@
 //
 
 #import "AlertGreenView.h"
-//#import "AppDelegate.h"
+
 
 @interface AlertGreenView ()
 @property (copy, nonatomic) NSString *title, *content;
