@@ -25,7 +25,7 @@ s.platform     = :ios
  s.platform     = :ios, "5.0"
 
 
-  s.source       = { :git => "https://github.com/ZOYOOPlus/AlertGreenView", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/ZOYOOPlus/AlertGreenView.git", :tag => "#{s.version}" }
 
 
   s.source_files  = "AlertGreenView/**/*.{h,m}"
