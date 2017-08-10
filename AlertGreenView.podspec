@@ -14,15 +14,13 @@ Pod::Spec.new do |s|
 
 
   s.license      = "MIT"
-  # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
-
 
   s.author             = { "tangyuanby2" => "tangyuanby2@163.com" }
 
   # s.social_media_url   = "http://www.taby2.com/"
 
 s.platform     = :ios
- s.platform     = :ios, "5.0"
+ s.platform     = :ios, "7.0"
 
 
   s.source       = { :git => "https://github.com/ZOYOOPlus/AlertGreenView.git", :tag => "#{s.version}" }
