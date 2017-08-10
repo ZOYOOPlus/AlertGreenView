@@ -16,18 +16,17 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "AlertGreenView"
-  s.version      = "0.0.1"
-  s.summary      = "A short description of AlertGreenView."
+  s.version      = "0.0.3"
+  s.summary      = "用于项目中添加弹框自定义封装AlertGreenView."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
-  s.description  = <<-DESC
-                   DESC
+  s.description  = "用于项目中添加弹框自定义封装AlertGreenView,确定,取消的回调"
 
-  s.homepage     = "http://EXAMPLE/AlertGreenView"
+  s.homepage     = "https://github.com/ZOYOOPlus/AlertGreenView"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -38,7 +37,7 @@ Pod::Spec.new do |s|
   #  Popular ones are 'MIT', 'BSD' and 'Apache License, Version 2.0'.
   #
 
-  s.license      = "MIT (example)"
+  s.license      = "MIT"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
 
 
@@ -55,7 +54,7 @@ Pod::Spec.new do |s|
   s.author             = { "tangyuanby2" => "tangyuanby2@163.com" }
   # Or just: s.author    = "tangyuanby2"
   # s.authors            = { "tangyuanby2" => "tangyuanby2@163.com" }
-  # s.social_media_url   = "http://twitter.com/tangyuanby2"
+  # s.social_media_url   = "http://www.taby2.com/"
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
@@ -79,7 +78,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "http://EXAMPLE/AlertGreenView.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/ZOYOOPlus/AlertGreenView", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
